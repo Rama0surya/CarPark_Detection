@@ -31,3 +31,7 @@ Proyek ini adalah sistem **otomatisasi parkir pintar** berbasis kamera dan AI, y
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/Rama0surya/CarPark_Detection.git
+```
+### 2. Akses Web Interface
+```bash
+cloudflared tunnel --url http://localhost:5000
